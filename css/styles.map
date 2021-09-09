@@ -1,0 +1,18 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"../scss/styles.scss",
+		"../scss/utilities/_index.scss",
+		"../scss/base/_index.scss",
+		"../scss/component/_index.scss"
+	],
+	"sourcesContent": [
+		"@import 'utilities/index'; \r\n@import 'base/index';\r\n@import 'component/index';",
+		"",
+		"",
+		""
+	],
+	"names": [],
+	"mappings": ""
+}
